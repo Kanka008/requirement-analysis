@@ -1,4 +1,4 @@
-![alx-booking-uc](https://github.com/user-attachments/assets/9efa01c2-aa53-4e5d-9ffb-bea130a6e232)
+
 ## Requirement Analysis in Software Development.
 
 Requirement Analysis is a critical phase in the software development lifecycle where the needs and expectations of stakeholders are identified, documented, and analyzed before any actual development begins. The goal is to ensure that the software system will meet the intended purpose and solve the right problems, reducing misunderstandings and costly changes later in the process.
@@ -122,7 +122,7 @@ Benefits of Use Case Diagrams:
 * Facilitate communication among stakeholders and development team.
 
   Below is the Use case diagram
-![alx-booking-uc.png](https://github.com/user-attachments/assets/ccf3d439-878b-4ad5-bf17-80c7b228a4c7)
+
 
 ## Acceptance Criteria ✅
 Objective: Establishing clear criteria for feature completion.
